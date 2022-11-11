@@ -41,6 +41,7 @@
 
     .overlay2 {
       min-height: -50vh;
+      text-align: center;
       color: white;
       display: -webkit-box;
       display: -ms-flexbox;
@@ -252,14 +253,14 @@ a.credit {
 	margin-right: 565px;
 	
 	position:absolute; /*jess*/
-	top:0; /*jess*/
+	top:-25px; /*jess*/
 	margin-left: 136px; /*jess*/
 	}
 	
 .timeline li.russ {
 	margin-left: 484px;
 	position:absolute; /*jess*/
-	top:0; /*jess*/
+	top:-30px; /*jess*/
 	}
 	
 .timeline li.jess:before{
@@ -362,6 +363,9 @@ a.credit {
 #about-him {															/* 6 text */
 	
 	}
+	#about-him2 {															/* 6 text */
+
+	}
 	
 #discovery {															/* 7 Nick Felton */
 	background: url('../../c15117992.r92.cf2.rackcdn.com/7a.png') 50% 0 no-repeat fixed;
@@ -374,18 +378,30 @@ a.credit {
 		position: absolute;
 		z-index: 101;
 		}
-		
+
+		#discovery1 {															/* 7 Nick Felton */
+	background: url('../../c15117992.r92.cf2.rackcdn.com/7a.png') 50% 0 no-repeat fixed;
+	background-color: #bc9d51;
+	}
+
+	#discovery1 .b {
+		background: url('../../c15117992.r92.cf2.rackcdn.com/7b.png') 50% 0 no-repeat fixed;
+		width: 100%;
+		position: absolute;
+		z-index: 101;
+		}
+
 #first-meet {															/* 8 text */
-	
 	}
 	
 #star-crossed {															/* 9 Sam Weber */
-	background: url('../../c15117992.r92.cf2.rackcdn.com/9a.jpg') 50% 0 no-repeat fixed;
+	/*background: url('../../c15117992.r92.cf2.rackcdn.com/9a.jpg') 50% 0 no-repeat fixed;*/
 	background-color: black;
+	top: 50px;
 	}
 	
 	#star-crossed .b {
-		background: url('../../c15117992.r92.cf2.rackcdn.com/9b.png') 50% 0 repeat-y fixed;
+		/*background: url('../../c15117992.r92.cf2.rackcdn.com/9b.png') 50% 0 repeat-y fixed;*/
 		width: 100%;
 		position: absolute;
 		z-index: 101;
@@ -398,6 +414,12 @@ a.credit {
 		
 #the-road {																/* 10 text */
 	
+	}
+	#the-road2 {																/* 10 text */
+
+	}
+	#the-road3 {																/* 10 text */
+
 	}
 	
 #waiting {																/* 11 Josh Cochran */
@@ -466,6 +488,9 @@ a.credit {
 #more-dates {															/* 14 text */
 	
 	}
+	#more-dates2 {															/* 14 text */
+
+	}
 	
 #falling-in-love {														/* 15 Jason Kernevich */
 	background: url('../../c15117992.r92.cf2.rackcdn.com/15a.jpg') 50% 0 no-repeat fixed;
@@ -501,14 +526,30 @@ a.credit {
 #new-adventures {														/* 16 text */
 	
 	}
+	#new-adventures1 {														/* 16 text */
+
+	}
 
 #high-seas {															/* 17 Chris Buzelli */
+	background: url('../../c15117992.r92.cf2.rackcdn.com/17a.jpg') 50% 0 no-repeat fixed;
+	background-color: #dfd6b9;
+	}
+
+	#high-seas1 {															/* 17 Chris Buzelli */
+	background: url('../../c15117992.r92.cf2.rackcdn.com/17a.jpg') 50% 0 no-repeat fixed;
+	background-color: #dfd6b9;
+	}
+
+	#high-seas2 {															/* 17 Chris Buzelli */
 	background: url('../../c15117992.r92.cf2.rackcdn.com/17a.jpg') 50% 0 no-repeat fixed;
 	background-color: #dfd6b9;
 	}
 		
 #changes {																/* 18 text */
 	
+	}
+	#changes1 {																/* 18 text */
+
 	}
 		
 #new-lives {															/* 19 Grady McFerrin */
@@ -580,6 +621,9 @@ a.credit {
 
 #epiphany {																/* 22 text */
 	
+	}
+	#epiphany1 {																/* 22 text */
+
 	}
 
 #jessica {																/* 23 Neil Swaab */
@@ -663,6 +707,9 @@ a.credit {
 #the-plan {																/* 26 text */
 	
 	}
+	#the-plan1 {																/* 26 text */
+
+	}
 	
 #it-happened {															/* 27 Jessica Hische */
 	background: none;
@@ -674,6 +721,61 @@ a.credit {
 		position: absolute;
 		z-index: 101;
 		}
+
+		#it-happened1 {															/* 27 Jessica Hische */
+	background: none;
+	}
+
+	#it-happened .b {
+		background: url('../../c15117992.r92.cf2.rackcdn.com/27b.png') center no-repeat;
+		width: 100%;
+		position: absolute;
+		z-index: 101;
+		}
+
+		#it-happened2 {															/* 27 Jessica Hische */
+        	background: none;
+        	}
+
+        	#it-happened2 .b {
+        		background: url('../../c15117992.r92.cf2.rackcdn.com/27b.png') center no-repeat;
+        		width: 100%;
+        		position: absolute;
+        		z-index: 101;
+        		}
+
+        		#it-happened3 {															/* 27 Jessica Hische */
+        	background: none;
+        	}
+
+        	#it-happened3 .b {
+        		background: url('../../c15117992.r92.cf2.rackcdn.com/27b.png') center no-repeat;
+        		width: 100%;
+        		position: absolute;
+        		z-index: 101;
+        		}
+
+        		#it-happened4 {															/* 27 Jessica Hische */
+        	background: none;
+        	}
+
+        	#it-happened4 .b {
+        		background: url('../../c15117992.r92.cf2.rackcdn.com/27b.png') center no-repeat;
+        		width: 100%;
+        		position: absolute;
+        		z-index: 101;
+        		}
+
+        		#it-happened5 {															/* 27 Jessica Hische */
+        	background: none;
+        	}
+
+        	#it-happened4 .b {
+        		background: url('../../c15117992.r92.cf2.rackcdn.com/27b.png') center no-repeat;
+        		width: 100%;
+        		position: absolute;
+        		z-index: 101;
+        		}
 		
 #set-up {																/* 28 text */
 	
@@ -708,8 +810,16 @@ a.credit {
 #yes {																	/* 30 text */
 	
 	}
+
+	#yes1 {																	/* 30 text */
+
+	}
 	
 #restaurant {															/* 31 James Gulliver Hancock */
+	background: url('../../c15117992.r92.cf2.rackcdn.com/31a.jpg') 50% 0 no-repeat fixed;
+	background-color: #e3d4ae;
+	}
+	#restaurant1 {															/* 31 James Gulliver Hancock */
 	background: url('../../c15117992.r92.cf2.rackcdn.com/31a.jpg') 50% 0 no-repeat fixed;
 	background-color: #e3d4ae;
 	}
@@ -730,6 +840,17 @@ a.credit {
 		}
 		
 	#restaurant a.credit {
+		color: black;
+		}
+
+		#restaurant1 .b {
+		background: url('../../c15117992.r92.cf2.rackcdn.com/31b.png') 50% 0 no-repeat fixed;
+		width: 100%;
+		position: absolute;
+		z-index: 101;
+		}
+
+	#restaurant1 a.credit {
 		color: black;
 		}
 
@@ -758,8 +879,16 @@ a.credit {
 #waiting-inside {														/* 32 text */
 	
 	}
+#waiting-inside1 {														/* 32 text */
+
+	}
 	
 #friends {																/* 33 Jillian Tamaki */
+	background: url('../../c15117992.r92.cf2.rackcdn.com/33a.jpg') 50% 0 no-repeat fixed;
+	background-color: black;
+	}
+
+	#friends1 {																/* 33 Jillian Tamaki */
 	background: url('../../c15117992.r92.cf2.rackcdn.com/33a.jpg') 50% 0 no-repeat fixed;
 	background-color: black;
 	}
