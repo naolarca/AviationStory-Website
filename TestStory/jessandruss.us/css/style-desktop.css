@@ -713,6 +713,14 @@ a.credit {
 	background: url('../../c15117992.r92.cf2.rackcdn.com/31a.jpg') 50% 0 no-repeat fixed;
 	background-color: #e3d4ae;
 	}
+	#restaurant2{															/* 31 James Gulliver Hancock */
+    	background: url('../../c15117992.r92.cf2.rackcdn.com/31a.jpg') 50% 0 no-repeat fixed;
+    	background-color: #e3d4ae;
+    	}
+    	#restaurant3{															/* 31 James Gulliver Hancock */
+    	background: url('../../c15117992.r92.cf2.rackcdn.com/31a.jpg') 50% 0 no-repeat fixed;
+    	background-color: #e3d4ae;
+    	}
 	
 	#restaurant .b {
 		background: url('../../c15117992.r92.cf2.rackcdn.com/31b.png') 50% 0 no-repeat fixed;
@@ -722,6 +730,28 @@ a.credit {
 		}
 		
 	#restaurant a.credit {
+		color: black;
+		}
+
+		#restaurant2 .b {
+		background: url('../../c15117992.r92.cf2.rackcdn.com/31b.png') 50% 0 no-repeat fixed;
+		width: 100%;
+		position: absolute;
+		z-index: 101;
+		}
+
+	#restaurant2 a.credit {
+		color: black;
+		}
+
+		#restaurant3 .b {
+		background: url('../../c15117992.r92.cf2.rackcdn.com/31b.png') 50% 0 no-repeat fixed;
+		width: 100%;
+		position: absolute;
+		z-index: 101;
+		}
+
+	#restaurant2 a.credit {
 		color: black;
 		}
 		
@@ -737,7 +767,15 @@ a.credit {
 #invitation {
 	background: url('../../c15117992.r92.cf2.rackcdn.com/lines.png') 50% repeat-y;
 	}
-	
+
+	#invitation2 {
+    	background: url('../../c15117992.r92.cf2.rackcdn.com/lines.png') 50% repeat-y;
+    	}
+
+    	#invitation3 {
+    	background: url('../../c15117992.r92.cf2.rackcdn.com/lines.png') 50% repeat-y;
+    	}
+
 	#invitation .b {
 		background: url('../../c15117992.r92.cf2.rackcdn.com/34b.png') 50% no-repeat;
 		width: 100%;
@@ -745,41 +783,9 @@ a.credit {
 		z-index: 101;
 		}
 	
-	#invitation .c {
-		background: url('../../c15117992.r92.cf2.rackcdn.com/34c.png') 50% 0 no-repeat;
-		height: 671px;
-		width: 100%;
-		margin-top: 600px;
-		position: absolute;
-		z-index: 102;
-		transition: margin 1s;
-		-moz-transition: margin 1s; 
-		-webkit-transition: margin 1s; 
-		-o-transition: margin 1s;
-		}
+
 		
-		#invitation .c .caption {
-			text-align: center;
-			width: 400px;
-			color: gray;
-			font-size: 18px;
-			border-bottom: 1px solid #bc9d51;
-			margin: 110px 305px;
-			}
-			
-		#password{
-			z-index:999;
-			position:absolute;
-			left: 305px;
-			top: 260px;
-			}
-		
-	#invitation .d {
-		background: url('../../c15117992.r92.cf2.rackcdn.com/34d.png') no-repeat center top;
-		width: 100%;
-		position: absolute;
-		z-index: 103;
-		}
+
 	
 #invite-wrapper {
 	width: 90%;
