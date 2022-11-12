@@ -1,4 +1,3 @@
-# AviationStory-Website
 A website about the Story Of Aviation
 
 Hello there! I decided to combine two of my passions into one place: computer engineering and aviation. 
